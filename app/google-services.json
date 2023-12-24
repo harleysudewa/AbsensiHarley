@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138617222189",
+    "project_id": "login-auth-harley",
+    "storage_bucket": "login-auth-harley.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138617222189:android:bfad3de01e25aa125074a4",
+        "android_client_info": {
+          "package_name": "com.example.absensiharley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuoAqGyCCsEK8IikVxM8ZU8Uz6JdHv5ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
