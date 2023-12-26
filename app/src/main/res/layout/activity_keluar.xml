@@ -282,7 +282,7 @@
                 android:layout_marginTop="30dp"
                 android:layout_marginEnd="40dp"
                 android:layout_marginBottom="20dp"
-                android:text="Absen Keluar"
+                android:text="Submit"
                 android:textAllCaps="false"
                 android:textColor="@color/white"
                 app:cornerRadius="20dp"
